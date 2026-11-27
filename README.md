@@ -117,7 +117,7 @@ Claude / ChatGPT / Codex 的注册、订阅、使用与防封全流程。　[在
 
 <img src="images/qq-group-qr.jpg" alt="QQ 群二维码" width="220">
 
-团队想自建 Claude Code / Codex 的 API 网关，可以看 [sub2api 搭建教程](docs/claude-code/sub2api-deploy.md)，也可以了解 [sub2api 搭建服务](https://claucc.net/sub2api-service)。
+不想自己注册和配环境，可以用 [Claude Code 中转服务](https://claucc.net/cc-relay)（按量计费，0.35 倍率）；团队想自建 API 网关，看 [sub2api 搭建教程](docs/claude-code/sub2api-deploy.md) 或了解 [sub2api 搭建服务](https://claucc.net/sub2api-service)。
 
 ## 说明
 

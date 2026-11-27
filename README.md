@@ -123,4 +123,7 @@ Claude / ChatGPT / Codex 的注册、订阅、使用与防封全流程。　[在
 
 - 文章由 [claucc.net](https://claucc.net) 自动导出，网站更新后这里会同步，内容以网站为准。
 - 内容是个人实测经验，平台风控规则一直在变，仅供参考。请遵守 Anthropic / OpenAI 的服务条款和当地法律法规。
-- 转载请注明出处：[https://claucc.net](https://claucc.net)
+
+## 许可证
+
+本仓库内容采用 [CC BY-NC-SA 4.0](LICENSE)（署名-非商业性使用-相同方式共享）许可：可以转载和改编，但要注明出处 [https://claucc.net](https://claucc.net)，不能用于商业用途，改编后的作品也要用同样的许可证发布。
